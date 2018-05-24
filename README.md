@@ -1,6 +1,6 @@
-# html-starter
+# html-webpack
 
-> 大美前端工程脚手架: html
+> html webpack模板
 
 ## Build Setup
 
@@ -21,5 +21,6 @@ npm run build --report
 ## 使用攻略
 
 - 将你的 html/htm 等页面文件放在 src/views目录下
-- 将你的 less/sass/scss/css 等样式文件放在 src/styles 目录下
-- 将你的 js/jsx/ts 等脚本文件放在 src/scripts 目录下
+- 将你的 sass/scss/css 等样式文件放在 src/styles 目录下
+- 将你的 js 等脚本文件放在 src/scripts 目录下
+- 将你的 图片/视频 等资源文件放在 static 目录下
